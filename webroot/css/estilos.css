@@ -68,6 +68,12 @@ hr {
 #github,#linkedin,#curriculum{
     text-decoration: none;
 }
+#tema7,#tema8{
+    cursor: none;
+}
+#loginLogoff{
+    color: brown;
+}
 #github:before{
     font-family: 'Fontawesome';
     content:'\f09b';
