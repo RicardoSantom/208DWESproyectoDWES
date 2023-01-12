@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,14 +20,14 @@
     <body>
         <header>
             <h1>Desarrollo Aplicaciones Web Entorno Servidor</h1>
-            <h2>Temario</h2>
+            <h2>Documentación <strong>+</strong> Proyectos</h2>
         </header>
         <main>
             <article>
                 <ul>
                     <li><a href="doc/EstudioTema1.pdf" title="Enlace EstudioTema1.pdf" target="blank">TEMA 1:DESARROLLO WEB EN ENTORNO SERVIDOR</a><hr></li>
-                    <li class="sangrado"><a href="doc/EstudioLaravel.pdf" title="Enlace Laravel.pdf" target="blank">TEMA 1:DESARROLLO WEB EN ENTORNO SERVIDOR - Laravel</a><hr></li>
-                    <li class="sangrado"><a href="doc/Instalación y Despliegue Laravel.pptx" title="Enlace Instalación y Despliegue Laravel.pptx" target="blank">TEMA 1:DESARROLLO WEB EN ENTORNO SERVIDOR - Powerpoint Laravel</a><hr></li>
+                    <li class="sangrado"><a href="doc/EstudioLaravel.pdf" title="Enlace Laravel.pdf" target="blank">DESARROLLO WEB EN ENTORNO SERVIDOR - Laravel</a><hr></li>
+                    <li class="sangrado"><a href="doc/Instalación y Despliegue Laravel.pptx" title="Enlace Instalación y Despliegue Laravel.pptx" target="blank">DESARROLLO WEB EN ENTORNO SERVIDOR - Powerpoint Laravel</a><hr></li>
                     <li><a href="doc/EstudioTema2.pdf" title="Enlace EstudioTema2.pdf" target="blank">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</a><hr></li>
                     <li><a href="../../208DWESproyectoTema3/indexProyectoTema3.php" title="Enlace indexProyectoTema3">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a><hr></li>
                     <li><a href="../../208DWESproyectoTema4/indexProyectoTema4.php" title="Enlace indexProyectoTema4">TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP</a><hr></li>
@@ -39,7 +39,7 @@
                     <li><a href="../enconstruccion.html" id="tema8" title="Enlace en construcción">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</a><hr></li>
                 </ul>
             </article>
-             <?php include_once './footer.php'; ?>
+            <?php include_once './footer.php'?>
         </main>
     </body>
 </html>
