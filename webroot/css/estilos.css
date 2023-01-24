@@ -89,7 +89,7 @@ hr {
 #tema7,#tema8{
     cursor: not-allowed !important;
 }
-#loginLogoff{
+#loginLogoff,#proyectoFinal{
     color: brown;
 }
 #github:before{
