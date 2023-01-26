@@ -34,10 +34,12 @@
                     <li><a href="../../208DWESproyectoTema5/indexProyectoTema5.php" title="Enlace indexProyectoTema5">TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO</a><hr></li>
                     <li class="sangrado"><a href="../../208DWESLoginLogoffTema5/codigoPHP/login.php" title="Enlace login.php">TEMA 5: APLICACIÓN LOGINLOGOFF</a><hr></li>
                     <li><a href="../enconstruccion.html" title="Enlace en construcción">TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</a><hr></li>
-                    <li class="sangrado"><a href="../../208DWESLoginLogoff/index.php" id="loginLogoff" title="Enlace index.php Aplicación LoginLogoff">APLICACIÓN LOGINLOGOFF</a><hr></li>
+                    <!--<li class="sangrado"><a href="../../208DWESLoginLogoff/index.php" id="loginLogoff" title="Enlace index.php Aplicación LoginLogoff">APLICACIÓN LOGINLOGOFF</a><hr></li>-->
+                    <li class="sangrado"><a href="../../208DWESLoginLogoff1/index.php" id="loginLogoff" title="Enlace index.php Aplicación LoginLogoff">APLICACIÓN LOGINLOGOFF</a><hr></li>
                     <li><a href="../enconstruccion.html" id="tema7" title="Enlace en construcción">TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</a><hr></li>
                     <li><a href="../enconstruccion.html" id="tema8" title="Enlace en construcción">TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</a><hr></li>
-                    <li class="sangrado"><a href="../../204DWESProyectoFinal/index.php" id="proyectoFinal" title="Enlace index.php Aplicación Final">PROYECTO FINAL</a><hr></li>
+                    <!--<li class="sangrado"><a href="../../208DWESProyectoFinal1/index.php" id="loginLogoff" title="Enlace index.php Aplicación LoginLogoff">APLICACIÓN LOGINLOGOFF</a><hr></li>-->
+                    <li class="sangrado"><a href="../../208DWESProyectoFinal1/index.php" id="proyectoFinal" title="Enlace index.php Aplicación Final">PROYECTO FINAL</a><hr></li>
                 </ul>
             </article>
             <?php include_once './footer.php'?>
